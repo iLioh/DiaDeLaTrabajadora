@@ -1,0 +1,45 @@
+body {
+    font-weight: bold; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  p {
+    margin: 0 auto; 
+    position: absolute;
+    font-size: 24px; /* Ajusta el tamaño del texto según sea necesario */
+    color: #ffffff;
+    height: 25px;
+    width: 100%; 
+    top: calc(90% - 12.5px); 
+    left: 0; 
+    right: 0;
+    text-align: center; 
+    text-shadow: 0 0 30px rgb(255, 255, 255); 
+}
+
+  
+  p a {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; 
+    text-decoration: none;
+    color: #7bb0ff;
+  }
+  
+  span.Lioh {
+    color: #c542e6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold; 
+    display: block; 
+  }
+  
